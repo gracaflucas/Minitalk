@@ -1,4 +1,4 @@
-# Minitalk
+# Minitalk (125/100)
 
 Minitalk is a messaging project that demonstrates inter-process communication through UNIX signals (SIGUSR1 and SIGUSR2). 
 The client sends a message to the server by transmitting the message bit by bit, character by character. 
